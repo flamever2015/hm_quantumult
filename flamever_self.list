@@ -1,5 +1,4 @@
 [general]
-
 #解析器作者 @XIAO_KOP 
 # resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
 
@@ -22,6 +21,9 @@ address=/raw.githubusercontent.com/185.199.110.133
 [filter_local]
 
 # https://github.com/flamever2015/hm_quantumult/blob/main/flamever_self.list
+
+host-keyword, brawlstars.cn, direct
+host-keyword, omnigroup.com, HK
 host-keyword, xiaoyuzhoufm.com, direct
 host-suffix, xboxlive.com, 🐟 Final
 
