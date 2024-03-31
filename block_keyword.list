@@ -1,0 +1,34 @@
+# 短视频屏蔽
+
+host-keyword, amemv.com, REJECT
+host-keyword, baijiahao.baidu.com, REJECT
+host-keyword, bdurl.net, REJECT
+host-keyword, bytedance.net, REJECT
+host-keyword, dm.toutiao.com, REJECT
+host-keyword, douyin.com, REJECT
+host-keyword, douyincdn.com, REJECT
+host-keyword, gifshow.com, REJECT
+host-keyword, haokan.baidu.com, REJECT
+host-keyword, hs.ixigua.com, REJECT
+host-keyword, hs.pstatp.com, REJECT
+host-keyword, huawei.com, REJECT
+host-keyword, huaweicloud.com, REJECT
+host-keyword, huoshan.com, REJECT
+host-keyword, ixigua.com, REJECT
+host-keyword, ixiguavideo.com, REJECT
+host-keyword, ksapisrv.com, REJECT
+host-keyword, kuaishou.com, REJECT
+host-keyword, kuaishoupay.com, REJECT
+host-keyword, meipai.com, REJECT
+host-keyword, miaopai.com, REJECT
+host-keyword, qupai.me, REJECT
+host-keyword, snssdk.com, REJECT
+host-keyword, tieba.baidu.com, REJECT
+host-keyword, tieba.com, REJECT
+host-keyword, tiktokv.com, REJECT
+host-keyword, toutiao.com, REJECT
+host-keyword, v.kandian.qq.com, REJECT
+host-keyword, v.weishi.qq.com, REJECT
+host-keyword, weishi.qq.com, REJECT
+host-keyword, xiongzhang.baidu.com, REJECT
+host-keyword, yximgs.com, REJECT
