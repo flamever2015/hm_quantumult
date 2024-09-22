@@ -34,6 +34,10 @@ DOMAIN-SUFFIX,xiongzhang.baidu.com,REJECT
 DOMAIN-SUFFIX,yximgs.com,REJECT
 ## 快手
 DOMAIN-SUFFIX,kwaicdn.com,REJECT
+DOMAIN-SUFFIX,kuaishou.httpdns,REJECT
+DOMAIN-SUFFIX,kuaishouzt.com,REJECT
+DOMAIN-SUFFIX,inkuai.com,REJECT
 DOMAIN-SUFFIX,ksyun.com,REJECT
-DOMAIN-SUFFIX,xyxyzz.com/bs2/photo-video-mz,REJECT
+DOMAIN-SUFFIX,kwimgs.com,REJECT
+DOMAIN-SUFFIX,xyxyzz.com,REJECT
 DOMAIN-SUFFIX,xxpkg.com,REJECT
