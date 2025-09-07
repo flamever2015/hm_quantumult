@@ -32,6 +32,32 @@ DOMAIN-SUFFIX,v.weishi.qq.com,REJECT
 DOMAIN-SUFFIX,weishi.qq.com,REJECT
 DOMAIN-SUFFIX,xiongzhang.baidu.com,REJECT
 DOMAIN-SUFFIX,yximgs.com,REJECT
+
+## 抖音
+DOMAIN-SUFFIX,ixigua.com,REJECT
+DOMAIN-SUFFIX,ixiguavideo.com,REJECT
+DOMAIN-SUFFIX,snssdk.com,REJECT
+DOMAIN-SUFFIX,amemv.com,REJECT
+DOMAIN-SUFFIX,toutiao.com,REJECT
+DOMAIN-SUFFIX,douyinvod.com,REJECT
+DOMAIN-SUFFIX,bytetos.com,REJECT
+DOMAIN-SUFFIX,douyin.com,REJECT
+DOMAIN-SUFFIX,douyinpic.com,REJECT
+DOMAIN-SUFFIX,douyincdn.com,REJECT
+DOMAIN-SUFFIX,zijieapi.com,REJECT
+DOMAIN-SUFFIX,bytedance.com,REJECT
+DOMAIN-SUFFIX,bytegecko.com,REJECT
+DOMAIN-SUFFIX,byteimg.com,REJECT
+DOMAIN-SUFFIX,bytemastatic.com,REJECT
+DOMAIN-SUFFIX,douyinstatic.com,REJECT
+DOMAIN-SUFFIX,open-douyin.com,REJECT
+
+## 微信视频号
+## DOMAIN-SUFFIX,video.qq.com,REJECT
+## DOMAIN-SUFFIX,szextshort.weixin.qq.com,REJECT
+## DOMAIN-SUFFIX,szminorshot.weixin.qq.com,REJECT
+## DOMAIN-SUFFIX,szshort.weixin.qq.com,REJECT
+
 ## 快手
 DOMAIN-SUFFIX,kwaicdn.com,REJECT
 DOMAIN-SUFFIX,kuaishou.httpdns.pro,REJECT
@@ -42,6 +68,17 @@ DOMAIN-SUFFIX,ksyun.com,REJECT
 DOMAIN-SUFFIX,kwimgs.com,REJECT
 DOMAIN-SUFFIX,xyxyzz.com,REJECT
 DOMAIN-SUFFIX,xxpkg.com,REJECT
+DOMAIN-SUFFIX,kuaishouzt.com,REJECT
+DOMAIN-SUFFIX,kwimgs.com,REJECT
+DOMAIN-SUFFIX,kwaiodn.com,REJECT
+DOMAIN-SUFFIX,yximgs.com,REJECT
+DOMAIN-SUFFIX,gifshow.com,REJECT
+DOMAIN-SUFFIX,kuaishou.com,REJECT
+DOMAIN-SUFFIX,inkwai.com,REJECT
+DOMAIN-SUFFIX,yyzqta.com,REJECT
+DOMAIN-SUFFIX,ksapisrv.com,REJECT
+DOMAIN-SUFFIX,wsukwai.com,REJECT
+
 IP-CIDR,103.102.202.53/32,REJECT,no-resolve
 IP-CIDR,103.102.200.2/32,REJECT,no-resolve
 IP-CIDR,103.102.202.189/32,REJECT,no-resolve
